@@ -1,7 +1,7 @@
 
 # PokemonsMeetShakespeare
 
-A simple REST API project that can be used to implement REST operation in a Pokemon shakespearean environment.
+A simple REST API project that can be used to implement REST operations (GET,POST,PUT,DELETE) in a Pokemon shakespearean environment.
 
 An example using `curl`
 
